@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-lkzk4w.pulaucuanwin.sbs/sitemap.xml
